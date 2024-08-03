@@ -11,7 +11,7 @@ import Footer from './component/Footer';
 function Page1() {
   return (
     <div className="App">
-      
+        lylylyll
         <Template/>
         <Section heading='จัดแข่งเกม Tournament Valorant เงินรางวัลมูลค่ารวม 3,000 บาท'/>
         <Pic/> 
